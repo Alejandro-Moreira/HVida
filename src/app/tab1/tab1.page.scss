@@ -1,0 +1,32 @@
+/* Establecer el fondo de pantalla negro */
+ion-content {
+  --ion-background-color: #000000; 
+  color: #ffffff; 
+}
+
+/* Estilos para el mensaje de bienvenida */
+.welcome-message {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Estilos para el título h1 */
+.welcome-message h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Estilos para el párrafo */
+.welcome-message p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+  color: #ffffff; 
+}
+
+.welcome-message img {
+  display: block; 
+  margin: 0 auto;
+  width: 33.33%; /* La imagen ocupará 1/3 del ancho de su contenedor */
+  max-width: 100%; /* La imagen no se ampliará más allá de su tamaño original */
+}
