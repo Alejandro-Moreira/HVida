@@ -19,14 +19,14 @@ Durante la configuración, selecciona Hosting y sigue las instrucciones para con
 ### Estructura del proyecto
 El proyecto tiene la siguiente estructura de archivos:
 <br>myApp1/
-<br>├── public/
-<br>│   ├── index.html
-<br>│   ├── styles.css
-<br>│   ├── main.js
-<br>│   ├── images/
-<br>│   │   └── AlejoCV.png
-<br>├── firebase.json
-<br>└── .firebaserc
+<br> ├── public/
+<br> │   ├── index.html
+<br> │   ├── styles.css
+<br> │   ├── main.js
+<br> │   ├── images/
+<br> │   │   └── AlejoCV.png
+<br> ├── firebase.json
+<br> └── .firebaserc
 ### Explicación del código
 Sección de Bienvenida
 <br>
@@ -48,7 +48,7 @@ ionic build
 Asegúrate de que los archivos construidos estén en el directorio public
 <br>![image](https://github.com/Alejandro-Moreira/HVida/assets/117743484/80743570-c6b5-4733-b9f6-4a5a65aa6377)
 
-### Despliega en Firebase Hosting:
+Despliegue en Firebase Hosting
 Firebase deploy
 ![image](https://github.com/Alejandro-Moreira/HVida/assets/117743484/a4fb3fa7-2972-4efe-84f8-8edced774568)
 
