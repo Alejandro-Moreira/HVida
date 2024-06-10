@@ -49,7 +49,7 @@ Asegúrate de que los archivos construidos estén en el directorio public
 <br>![image](https://github.com/Alejandro-Moreira/HVida/assets/117743484/80743570-c6b5-4733-b9f6-4a5a65aa6377)
 
 Despliegue en Firebase Hosting
-Firebase deploy
+* Firebase deploy
 ![image](https://github.com/Alejandro-Moreira/HVida/assets/117743484/a4fb3fa7-2972-4efe-84f8-8edced774568)
 
 ### Ejecución
